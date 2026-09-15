@@ -1,0 +1,2737 @@
+{
+  "schema_version": 1,
+  "author": "橘鸦 / Juya (@imjuya)",
+  "author_site": "https://daily.juya.uk",
+  "content_license": "CC BY-NC 4.0; third-party materials retain their own rights",
+  "count": 207,
+  "first_date": "2026-02-18",
+  "latest_date": "2026-09-15",
+  "missing_dates": [
+    "2026-06-09",
+    "2026-06-10",
+    "2026-06-11"
+  ],
+  "rss": {
+    "url": "https://daily.juya.uk/rss.xml",
+    "mode": "author feed snapshot, latest items only"
+  },
+  "articles": [
+    {
+      "date": "2026-02-18",
+      "path": "BACKUP/1_2026-02-18.md",
+      "sha256": "535c1b390380165f24c21236d80f7ea5a8ad0b167d7553b367cdbf015833f570",
+      "bytes": 18937,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/1_2026-02-18.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/1_2026-02-18.md"
+      }
+    },
+    {
+      "date": "2026-02-19",
+      "path": "BACKUP/2_2026-02-19.md",
+      "sha256": "04ef7f37461c6bacb331daf3fde876eecd96b005edb9f4665d3ba29d914fb47a",
+      "bytes": 16613,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/2_2026-02-19.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/2_2026-02-19.md"
+      }
+    },
+    {
+      "date": "2026-02-20",
+      "path": "BACKUP/3_2026-02-20.md",
+      "sha256": "f5557e65d67765f7cffcb5c9209a6ab888327cff63d671fab54309612c506da2",
+      "bytes": 28077,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/3_2026-02-20.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/3_2026-02-20.md"
+      }
+    },
+    {
+      "date": "2026-02-21",
+      "path": "BACKUP/4_2026-02-21.md",
+      "sha256": "1809abe9f4d7a2b834df373bc121480ecb701ffb1b3bf5fb06af0795268fdc13",
+      "bytes": 16321,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/4_2026-02-21.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/4_2026-02-21.md"
+      }
+    },
+    {
+      "date": "2026-02-22",
+      "path": "BACKUP/5_2026-02-22.md",
+      "sha256": "e304800fd8d438c8ad5561c37726ff8f95ff1dbc6f5bd2be4e73af94ad91947b",
+      "bytes": 16370,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/5_2026-02-22.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/5_2026-02-22.md"
+      }
+    },
+    {
+      "date": "2026-02-23",
+      "path": "BACKUP/6_2026-02-23.md",
+      "sha256": "55ecbdb31f20030c9c70948f08f8297b06aeacfe0953cb96a074fa66ca8e355d",
+      "bytes": 9365,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/6_2026-02-23.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/6_2026-02-23.md"
+      }
+    },
+    {
+      "date": "2026-02-24",
+      "path": "BACKUP/7_2026-02-24.md",
+      "sha256": "f1fd8e273b4fe3ecf6fb034ea1d68ecfb271ae9eab54208b8b091a26beef12e2",
+      "bytes": 21843,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/7_2026-02-24.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/7_2026-02-24.md"
+      }
+    },
+    {
+      "date": "2026-02-25",
+      "path": "BACKUP/8_2026-02-25.md",
+      "sha256": "11fd02721b527f7af065752ea78f044ca82097a80222e56d7e7300f5a865ee57",
+      "bytes": 42641,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/8_2026-02-25.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/8_2026-02-25.md"
+      }
+    },
+    {
+      "date": "2026-02-26",
+      "path": "BACKUP/9_2026-02-26.md",
+      "sha256": "cff6a0239d69b6fa01993e096e5ea23064d808d9c09aa5dd62d67bfeda730e5d",
+      "bytes": 39003,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/9_2026-02-26.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/9_2026-02-26.md"
+      }
+    },
+    {
+      "date": "2026-02-27",
+      "path": "BACKUP/10_2026-02-27.md",
+      "sha256": "012af8d62f7aa6446fc0351df20985f6ff50e0f7b8823ecb133f145a1a33043f",
+      "bytes": 35031,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/10_2026-02-27.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/10_2026-02-27.md"
+      }
+    },
+    {
+      "date": "2026-02-28",
+      "path": "BACKUP/11_2026-02-28.md",
+      "sha256": "f934ca2e38190ba344e675a47800523df4ce7e28a9f762f226402b45b6bc8f37",
+      "bytes": 13034,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/11_2026-02-28.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/11_2026-02-28.md"
+      }
+    },
+    {
+      "date": "2026-03-01",
+      "path": "BACKUP/12_2026-03-01.md",
+      "sha256": "75846a7cf9723dd87b2652757136982b44f99a0fc4b0e2d4fe789aa017b43b13",
+      "bytes": 14657,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/12_2026-03-01.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/12_2026-03-01.md"
+      }
+    },
+    {
+      "date": "2026-03-02",
+      "path": "BACKUP/13_2026-03-02.md",
+      "sha256": "d787f494cf8cbe03a2ef6bca4f47868a2de05de61dac57b06cec18441425b69e",
+      "bytes": 9224,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/13_2026-03-02.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/13_2026-03-02.md"
+      }
+    },
+    {
+      "date": "2026-03-03",
+      "path": "BACKUP/14_2026-03-03.md",
+      "sha256": "b51337106f237c43bdb9fa15cc6623a40d6903e8027cda8c88c007afff54db51",
+      "bytes": 28081,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/14_2026-03-03.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/14_2026-03-03.md"
+      }
+    },
+    {
+      "date": "2026-03-04",
+      "path": "BACKUP/15_2026-03-04.md",
+      "sha256": "ff79543594c2c0483c2fa7092316b4580ca6b7087ee4214ae66f34eb951924f6",
+      "bytes": 26517,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/15_2026-03-04.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/15_2026-03-04.md"
+      }
+    },
+    {
+      "date": "2026-03-05",
+      "path": "BACKUP/16_2026-03-05.md",
+      "sha256": "e3d14c9639cb6f23def56f28ae25b4ea371b7abe3247731fe275beaacf896247",
+      "bytes": 24826,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/16_2026-03-05.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/16_2026-03-05.md"
+      }
+    },
+    {
+      "date": "2026-03-06",
+      "path": "BACKUP/17_2026-03-06.md",
+      "sha256": "6e67a399189e128a2240dda07c0ea73bbfe2b621bbe9f3626e0eb20bc966a1b0",
+      "bytes": 30047,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/17_2026-03-06.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/17_2026-03-06.md"
+      }
+    },
+    {
+      "date": "2026-03-07",
+      "path": "BACKUP/18_2026-03-07.md",
+      "sha256": "1ad20b5aefb3c57680a4ed5f52b7d3cfcc41e5a3a1481161e560cf417315e7d0",
+      "bytes": 25112,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/18_2026-03-07.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/18_2026-03-07.md"
+      }
+    },
+    {
+      "date": "2026-03-08",
+      "path": "BACKUP/19_2026-03-08.md",
+      "sha256": "e80b7260e28c5bd5140f25119699448bef4fde1e9481eaabd386096cb95c99ee",
+      "bytes": 9916,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/19_2026-03-08.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/19_2026-03-08.md"
+      }
+    },
+    {
+      "date": "2026-03-09",
+      "path": "BACKUP/20_2026-03-09.md",
+      "sha256": "5639a50ceb06ba9226cba2f7a54468addb3dfee44efd4f4bbf2401c2ba6d9d08",
+      "bytes": 8329,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/20_2026-03-09.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/20_2026-03-09.md"
+      }
+    },
+    {
+      "date": "2026-03-10",
+      "path": "BACKUP/21_2026-03-10.md",
+      "sha256": "d75d5648ed8a68b034d9a46589af1db6857afbbbbad73a63313722da967c2dee",
+      "bytes": 31797,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/21_2026-03-10.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/21_2026-03-10.md"
+      }
+    },
+    {
+      "date": "2026-03-11",
+      "path": "BACKUP/22_2026-03-11.md",
+      "sha256": "871b3002ae2e0089a2b8b96170f6617e74cbcf8cd2a5ffa74fb486ac1f481d46",
+      "bytes": 35088,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/22_2026-03-11.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/22_2026-03-11.md"
+      }
+    },
+    {
+      "date": "2026-03-12",
+      "path": "BACKUP/23_2026-03-12.md",
+      "sha256": "41f732adf577a43ab3493a87c82a93fee21896f47647bf265c5b35455c0c4c37",
+      "bytes": 35751,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/23_2026-03-12.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/23_2026-03-12.md"
+      }
+    },
+    {
+      "date": "2026-03-13",
+      "path": "BACKUP/24_2026-03-13.md",
+      "sha256": "59499a10c4ae8f744f7517440d21c3b268d09766b5b1e8006cd7df5fc2504445",
+      "bytes": 31363,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/24_2026-03-13.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/24_2026-03-13.md"
+      }
+    },
+    {
+      "date": "2026-03-14",
+      "path": "BACKUP/25_2026-03-14.md",
+      "sha256": "5165a3cfb957c2736d02c8efb9b2b5c6b18c98351eaa50f5ea31cf4b491c997e",
+      "bytes": 29571,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/25_2026-03-14.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/25_2026-03-14.md"
+      }
+    },
+    {
+      "date": "2026-03-15",
+      "path": "BACKUP/27_2026-03-15.md",
+      "sha256": "0bde286d25ad288b93a5909757d29112d85e0568b4c35ba5016cd0546bc4ddf8",
+      "bytes": 9437,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/27_2026-03-15.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/27_2026-03-15.md"
+      }
+    },
+    {
+      "date": "2026-03-16",
+      "path": "BACKUP/28_2026-03-16.md",
+      "sha256": "d5ed9622dfb95761e63bff4d9f34fe69d3ab21fad27bae2ddd6b003191e3fee4",
+      "bytes": 10520,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/28_2026-03-16.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/28_2026-03-16.md"
+      }
+    },
+    {
+      "date": "2026-03-17",
+      "path": "BACKUP/29_2026-03-17.md",
+      "sha256": "b08cdd6344a803b595e7488b61e3e8ceebe0a19dfd15c3a2f056f730b62921c3",
+      "bytes": 41108,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/29_2026-03-17.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/29_2026-03-17.md"
+      }
+    },
+    {
+      "date": "2026-03-18",
+      "path": "BACKUP/30_2026-03-18.md",
+      "sha256": "ba5b553b13dbfe24e8af5b9d7e413a20aec80822847664b2c847141168b2727b",
+      "bytes": 32910,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/30_2026-03-18.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/30_2026-03-18.md"
+      }
+    },
+    {
+      "date": "2026-03-19",
+      "path": "BACKUP/31_2026-03-19.md",
+      "sha256": "9afee8e0d4515ad19ada846b5add493d248d8f420840f4af70b496c909fe2ada",
+      "bytes": 35475,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/31_2026-03-19.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/31_2026-03-19.md"
+      }
+    },
+    {
+      "date": "2026-03-20",
+      "path": "BACKUP/33_2026-03-20.md",
+      "sha256": "ea649056d9a8754a07a66cbd7ffc933cb9cb99512bb1efbbcfb1cb101350e764",
+      "bytes": 23966,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/33_2026-03-20.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/33_2026-03-20.md"
+      }
+    },
+    {
+      "date": "2026-03-21",
+      "path": "BACKUP/34_2026-03-21.md",
+      "sha256": "1870490247c64e1dcfed2e29564c66df275cc919c531e9d772570f239224017f",
+      "bytes": 26546,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/34_2026-03-21.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/34_2026-03-21.md"
+      }
+    },
+    {
+      "date": "2026-03-22",
+      "path": "BACKUP/36_2026-03-22.md",
+      "sha256": "dbd042ff63888879e1058d766290a7188a9f71367d1c7653fff71b31d0717bed",
+      "bytes": 13226,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/36_2026-03-22.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/36_2026-03-22.md"
+      }
+    },
+    {
+      "date": "2026-03-23",
+      "path": "BACKUP/37_2026-03-23.md",
+      "sha256": "89e6c2923fdb4d1f8a1a2f32df13d3f47d11618fed1f57af0ab5048d4348deb8",
+      "bytes": 8991,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/37_2026-03-23.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/37_2026-03-23.md"
+      }
+    },
+    {
+      "date": "2026-03-24",
+      "path": "BACKUP/38_2026-03-24.md",
+      "sha256": "e78399ad102ba946cc6ac7542dd4d6e50840f43934cb7cec3bacad39d4734fcf",
+      "bytes": 10922,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/38_2026-03-24.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/38_2026-03-24.md"
+      }
+    },
+    {
+      "date": "2026-03-25",
+      "path": "BACKUP/39_2026-03-25.md",
+      "sha256": "d1a8e5d4959e6db8468d73aee7ec354a0321bd079c2dbbf6015a3d580a3d6f82",
+      "bytes": 22996,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/39_2026-03-25.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/39_2026-03-25.md"
+      }
+    },
+    {
+      "date": "2026-03-26",
+      "path": "BACKUP/40_2026-03-26.md",
+      "sha256": "73ea550b46ef91a9e2ecac89138337f6169e3ec0821f7d9616593e5e88adeadc",
+      "bytes": 28890,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/40_2026-03-26.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/40_2026-03-26.md"
+      }
+    },
+    {
+      "date": "2026-03-27",
+      "path": "BACKUP/41_2026-03-27.md",
+      "sha256": "0ac738da52deb1743adbb7a767cb99a6107cba741381cf0d797ffade2b35adbb",
+      "bytes": 33107,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/41_2026-03-27.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/41_2026-03-27.md"
+      }
+    },
+    {
+      "date": "2026-03-28",
+      "path": "BACKUP/42_2026-03-28.md",
+      "sha256": "042632a60bf8b978909895f4776d172ee985a01894b7ae2cb444459e2357ce89",
+      "bytes": 17563,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/42_2026-03-28.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/42_2026-03-28.md"
+      }
+    },
+    {
+      "date": "2026-03-29",
+      "path": "BACKUP/43_2026-03-29.md",
+      "sha256": "5250c2e70cbd01167d1626522efd0a037ceefd8d4bfc148dc9d38ad3e1f320bf",
+      "bytes": 9554,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/43_2026-03-29.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/43_2026-03-29.md"
+      }
+    },
+    {
+      "date": "2026-03-30",
+      "path": "BACKUP/44_2026-03-30.md",
+      "sha256": "f87a66a0f1413ff3445c433d38837a8d136f86ba3c3fa8f4ab92cde50f8cd855",
+      "bytes": 6294,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/44_2026-03-30.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/44_2026-03-30.md"
+      }
+    },
+    {
+      "date": "2026-03-31",
+      "path": "BACKUP/45_2026-03-31.md",
+      "sha256": "5afc2430ba3a39e20d7c87f5bff7949a4a13695d27266df035f6dabc91700814",
+      "bytes": 23735,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/45_2026-03-31.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/45_2026-03-31.md"
+      }
+    },
+    {
+      "date": "2026-04-01",
+      "path": "BACKUP/46_2026-04-01.md",
+      "sha256": "d80e80ba69e1793b3c71ef2b8c151be3c4802fe029577b8c7ecf97ecab56f36e",
+      "bytes": 25659,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/46_2026-04-01.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/46_2026-04-01.md"
+      }
+    },
+    {
+      "date": "2026-04-02",
+      "path": "BACKUP/47_2026-04-02.md",
+      "sha256": "824642ba5b50471bbf2fe9077080f6899f7694f22f6d4eb401854316ed53e93a",
+      "bytes": 26392,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/47_2026-04-02.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/47_2026-04-02.md"
+      }
+    },
+    {
+      "date": "2026-04-03",
+      "path": "BACKUP/48_2026-04-03.md",
+      "sha256": "5d0419d65c6121bb54601747a21dd7d52a309618f99e44729c752783d0bcf825",
+      "bytes": 28808,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/48_2026-04-03.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/48_2026-04-03.md"
+      }
+    },
+    {
+      "date": "2026-04-04",
+      "path": "BACKUP/49_2026-04-04.md",
+      "sha256": "b86ca7def0ce589bf668a50eafc900bd11c156c2891b6752e9df2dcd4d60e458",
+      "bytes": 23418,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/49_2026-04-04.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/49_2026-04-04.md"
+      }
+    },
+    {
+      "date": "2026-04-05",
+      "path": "BACKUP/50_2026-04-05.md",
+      "sha256": "126f3d347591bb8f23e3751637a66d55ba8503d02b5e25fbcf97fc26962926a6",
+      "bytes": 3903,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/50_2026-04-05.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/50_2026-04-05.md"
+      }
+    },
+    {
+      "date": "2026-04-06",
+      "path": "BACKUP/51_2026-04-06.md",
+      "sha256": "678bf1efdf155ecf8fa2273cf6436436d9b4897a82a3b2be4001df2c4bb51f2c",
+      "bytes": 5495,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/51_2026-04-06.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/51_2026-04-06.md"
+      }
+    },
+    {
+      "date": "2026-04-07",
+      "path": "BACKUP/52_2026-04-07.md",
+      "sha256": "f713a0705bc58fdb9de9e22f9ad93fc64e9f3cdfbf8572c7c999c226bc8079b1",
+      "bytes": 11489,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/52_2026-04-07.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/52_2026-04-07.md"
+      }
+    },
+    {
+      "date": "2026-04-08",
+      "path": "BACKUP/53_2026-04-08.md",
+      "sha256": "531bc81f1b4df6433dc1eb61f2a1eceb15db4d4cc433f8942c1bc0930c93599d",
+      "bytes": 30248,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/53_2026-04-08.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/53_2026-04-08.md"
+      }
+    },
+    {
+      "date": "2026-04-09",
+      "path": "BACKUP/54_2026-04-09.md",
+      "sha256": "e0c86803d35d69165fdba3d264ee2b1eddc1400b9ce990fa34bc591b5605b30f",
+      "bytes": 27514,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/54_2026-04-09.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/54_2026-04-09.md"
+      }
+    },
+    {
+      "date": "2026-04-10",
+      "path": "BACKUP/55_2026-04-10.md",
+      "sha256": "dc00bad7a9f845e39572d9cd21f41c0f8acdddf1fad254eb1c4e8acce117b4b9",
+      "bytes": 28650,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/55_2026-04-10.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/55_2026-04-10.md"
+      }
+    },
+    {
+      "date": "2026-04-11",
+      "path": "BACKUP/56_2026-04-11.md",
+      "sha256": "bb0291a49dd002d23fa6e94281597be92ae33f10da39f4b53a6dfb53faae9370",
+      "bytes": 23061,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/56_2026-04-11.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/56_2026-04-11.md"
+      }
+    },
+    {
+      "date": "2026-04-12",
+      "path": "BACKUP/57_2026-04-12.md",
+      "sha256": "d8b9d366758c25bd6948ad0e21493246ca616fbddcf09f357c9c9745d29f0abc",
+      "bytes": 11980,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/57_2026-04-12.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/57_2026-04-12.md"
+      }
+    },
+    {
+      "date": "2026-04-13",
+      "path": "BACKUP/58_2026-04-13.md",
+      "sha256": "a8164bfe26a9b48a8b44215746cdefb7af4319adc7a71e4b4ace665c38d7376f",
+      "bytes": 8807,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/58_2026-04-13.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/58_2026-04-13.md"
+      }
+    },
+    {
+      "date": "2026-04-14",
+      "path": "BACKUP/59_2026-04-14.md",
+      "sha256": "b5d54fd5ea18c1a98be1a1586d9803c07456f43fdb315f979d5e1e74fab4da34",
+      "bytes": 18535,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/59_2026-04-14.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/59_2026-04-14.md"
+      }
+    },
+    {
+      "date": "2026-04-15",
+      "path": "BACKUP/60_2026-04-15.md",
+      "sha256": "2b06144144340ab12c9c2bfd3a0e8ccd8d9f10f51cd0c69a8f37a290c94c3aa0",
+      "bytes": 39375,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/60_2026-04-15.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/60_2026-04-15.md"
+      }
+    },
+    {
+      "date": "2026-04-16",
+      "path": "BACKUP/61_2026-04-16.md",
+      "sha256": "b60ce12849708bd173a0c96dece2ad166adcdd3a623f03577d3d10885e7ad5af",
+      "bytes": 24799,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/61_2026-04-16.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/61_2026-04-16.md"
+      }
+    },
+    {
+      "date": "2026-04-17",
+      "path": "BACKUP/62_2026-04-17.md",
+      "sha256": "2b1efa78e4c46d520d85ced7b1f41dc82d54d9e9f0ed68f69c37126ff70aa7fc",
+      "bytes": 34420,
+      "source": {
+        "kind": "original-fork",
+        "repository": "CarverXx/juya-ai-daily",
+        "revision": "f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3",
+        "source_path": "BACKUP/62_2026-04-17.md",
+        "url": "https://raw.githubusercontent.com/CarverXx/juya-ai-daily/f78252dc7f3bf9bfbcd35eacf4b76cd3faa7daf3/BACKUP/62_2026-04-17.md"
+      }
+    },
+    {
+      "date": "2026-04-18",
+      "path": "BACKUP/2026-04-18.md",
+      "sha256": "be7d67c42709683a2b63849c0b07bbf20ef81d956314908336bb74e8741c10ab",
+      "bytes": 16864,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/63_2026-04-18.md",
+        "git_blob_sha1": "1baa6de55ed66175e08a86703e5b38610716bc35",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/63_2026-04-18.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-04-19",
+      "path": "BACKUP/2026-04-19.md",
+      "sha256": "f50aabb98b372e502d594669db79b4c7321ea4ded8f2475f11c30c8b68a6087f",
+      "bytes": 12895,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/64_2026-04-19.md",
+        "git_blob_sha1": "5d7c72bec1050c66fb2a30a785ffa8d2d454be26",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/64_2026-04-19.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-04-20",
+      "path": "BACKUP/2026-04-20.md",
+      "sha256": "9d566d575c16162bdddfa4378b92e64588e5b3eb12ae2717a78b21955f90e553",
+      "bytes": 10575,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/65_2026-04-20.md",
+        "git_blob_sha1": "8ff1b8982e48358f49e427a15c694675a1ef1f7c",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/65_2026-04-20.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-04-21",
+      "path": "BACKUP/2026-04-21.md",
+      "sha256": "032e3509d59f57d7e952bed0305a3319c3e7d3e3d0eda73dfc2f8242136f96dd",
+      "bytes": 28726,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/66_2026-04-21.md",
+        "git_blob_sha1": "c86ec18d0b9b6ba065b30e2e1c4554fc976875d8",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/66_2026-04-21.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-04-22",
+      "path": "BACKUP/2026-04-22.md",
+      "sha256": "5fc3ea8389579b57b8dcb09b88b908ae3fd5dc7954819bfcfbb5aa3c3080843e",
+      "bytes": 25017,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/67_2026-04-22.md",
+        "git_blob_sha1": "baf068b773cda062f334b7792d64ea6d5186d8af",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/67_2026-04-22.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-04-23",
+      "path": "BACKUP/2026-04-23.md",
+      "sha256": "e04626f2a5fa0ef3d1888f8c56ca7cb49c0e4aea21abca3b1faa7f5dd3f6cf7f",
+      "bytes": 38481,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/68_2026-04-23.md",
+        "git_blob_sha1": "446e868a14a9971ab2e119e5f12ac4c42fb57807",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/68_2026-04-23.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-04-24",
+      "path": "BACKUP/2026-04-24.md",
+      "sha256": "1dac37bc83621d357212702c53a4683ed37a173f0ea5af99f6e87a44b3e5df30",
+      "bytes": 39413,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/69_2026-04-24.md",
+        "git_blob_sha1": "b548c20eb13ae7435c3d1eb5d75940d3061d736a",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/69_2026-04-24.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-04-25",
+      "path": "BACKUP/2026-04-25.md",
+      "sha256": "ac01c13d8ff765a7d66274906fab1ba98fbe0f1556a788e9ac9564c81458070f",
+      "bytes": 20613,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/70_2026-04-25.md",
+        "git_blob_sha1": "d3a027517fc63cfb78fef2152178dbeeba335b50",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/70_2026-04-25.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-04-26",
+      "path": "BACKUP/2026-04-26.md",
+      "sha256": "858bebe147b3207723b3df656a246acd76a22d23c83c96a6aaf0be6f8bef019c",
+      "bytes": 14522,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/71_2026-04-26.md",
+        "git_blob_sha1": "58b67e85b94168e9b17f0ce5ba5f4b208211d3bd",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/71_2026-04-26.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-04-27",
+      "path": "BACKUP/2026-04-27.md",
+      "sha256": "f4aa4cb9a9194a11798142a813a311981dfb4a45233e44bdc5b3f08a7e1b032f",
+      "bytes": 4539,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/72_2026-04-27.md",
+        "git_blob_sha1": "4f624578c77b3a4ee298512c426e1d43083f54e6",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/72_2026-04-27.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-04-28",
+      "path": "BACKUP/2026-04-28.md",
+      "sha256": "bac34a94dc0d79e3ed020cf20883a625207168defa5c2251d10e569dea9899cd",
+      "bytes": 20961,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/73_2026-04-28.md",
+        "git_blob_sha1": "bc144bc2314b9dca831f29e79f300acb021f2d95",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/73_2026-04-28.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-04-29",
+      "path": "BACKUP/2026-04-29.md",
+      "sha256": "d7b0667df9fd02b52def5cf0e6e68919f6a872b8e0d5a7cc7f8c9efe23303f3c",
+      "bytes": 26169,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/74_2026-04-29.md",
+        "git_blob_sha1": "211ac36b26047c420131ee009930637cdfebc5bf",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/74_2026-04-29.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-04-30",
+      "path": "BACKUP/2026-04-30.md",
+      "sha256": "c79c66da1992f4ac801146b164a59046efc841014dd40427d9eae027928f4da6",
+      "bytes": 30454,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/75_2026-04-30.md",
+        "git_blob_sha1": "a8c9aadcd45265a6de13416bb2cb4cf29ac42117",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/75_2026-04-30.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-01",
+      "path": "BACKUP/2026-05-01.md",
+      "sha256": "dd3bff082b5942d3e37911a30273862242b938d641429cff610ca7ec2b7ede53",
+      "bytes": 38161,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/76_2026-05-01.md",
+        "git_blob_sha1": "c6778641ba4fa320c9614193bbcd9c7c76e0fa61",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/76_2026-05-01.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-02",
+      "path": "BACKUP/2026-05-02.md",
+      "sha256": "d3ada4c89aeb4c30d0ed32f59120a90f0b89d9597b1819a55d6c34ae66a115ba",
+      "bytes": 17848,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/77_2026-05-02.md",
+        "git_blob_sha1": "c3e6a78d69ca66ad730d49ed655bde20c4416569",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/77_2026-05-02.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-03",
+      "path": "BACKUP/2026-05-03.md",
+      "sha256": "143087509089a46e24c193fe3ef3da646ac6277cb27aff5ce6512342dc04d2ce",
+      "bytes": 8589,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/78_2026-05-03.md",
+        "git_blob_sha1": "434b3c65786e96c0142bf3e4b9366c3eba862f33",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/78_2026-05-03.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-04",
+      "path": "BACKUP/2026-05-04.md",
+      "sha256": "5d6bb0a082fdb3a13d6025ac8d0fc9dedc6c8a436916a4b4c1932bbf75b5267d",
+      "bytes": 7835,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/79_2026-05-04.md",
+        "git_blob_sha1": "bdb6e6e875d69a6200c63b16cb03ce8b6d89e43f",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/79_2026-05-04.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-05",
+      "path": "BACKUP/2026-05-05.md",
+      "sha256": "6d9ea3e60befbf22ea4baefd747c6b828869aab851bb9c0331f1a5120a78eb1b",
+      "bytes": 17898,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/80_2026-05-05.md",
+        "git_blob_sha1": "10840780e1f649c71497c4a8d9835b8374b4a61a",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/80_2026-05-05.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-06",
+      "path": "BACKUP/2026-05-06.md",
+      "sha256": "414f55dc9f77b7b7914cb674cbbf6624e1d225b09cf2bf0c2af22bf14a2c27e3",
+      "bytes": 29202,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/81_2026-05-06.md",
+        "git_blob_sha1": "980466a58bd13a4d354aba83d666c6d2210381d1",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/81_2026-05-06.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-07",
+      "path": "BACKUP/2026-05-07.md",
+      "sha256": "4a678d8a8953094c178e452dc4ec31dbdea8e1f70979f2415d6275781d63fe80",
+      "bytes": 23127,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/82_2026-05-07.md",
+        "git_blob_sha1": "23bed35a2f4b4e93cb08f5c84ff8da9d5bff4758",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/82_2026-05-07.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-08",
+      "path": "BACKUP/2026-05-08.md",
+      "sha256": "907c59bb1b8cf4b29dab69a717101459dac3dbcd941fa79fe73235932a38726a",
+      "bytes": 46010,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/83_2026-05-08.md",
+        "git_blob_sha1": "86f96a6f4e9cab26cda418bd6f9c9de8b77166f2",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/83_2026-05-08.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-09",
+      "path": "BACKUP/2026-05-09.md",
+      "sha256": "dcfda4cb503e60c2eabb21f8af2287c740404a0bb6f6ba074a032a7141ab63c1",
+      "bytes": 37135,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/84_2026-05-09.md",
+        "git_blob_sha1": "0b5522a750fc72c6697fd5dc98d264dae8b50196",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/84_2026-05-09.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-10",
+      "path": "BACKUP/2026-05-10.md",
+      "sha256": "a7a69e800af465ae357060f00e3fd86a5ee408ae3e2b78d1c65debb1b0bf0ee9",
+      "bytes": 13294,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/85_2026-05-10.md",
+        "git_blob_sha1": "f0ec244a0068be55af94d2c325b04ac622b7940b",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/85_2026-05-10.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-11",
+      "path": "BACKUP/2026-05-11.md",
+      "sha256": "99a2e111ce4722355b395e823be3f50665af21d1199fdf130dace22c0cd1dec7",
+      "bytes": 9081,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/86_2026-05-11.md",
+        "git_blob_sha1": "6a559c9b166fdfadb89bd98b514bd9cf5abf22f3",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/86_2026-05-11.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-12",
+      "path": "BACKUP/2026-05-12.md",
+      "sha256": "91e74b664be7bcedf734b557d14986b7e4a01b3259f4ba0f99f50891e3987776",
+      "bytes": 24447,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/87_2026-05-12.md",
+        "git_blob_sha1": "cdf4646488fb9f0d49704c567c5407424111a176",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/87_2026-05-12.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-13",
+      "path": "BACKUP/2026-05-13.md",
+      "sha256": "64b12374cb0831aec612ea6fcaa30dc9bfcb3fc0d199da381e23e11ccb63b176",
+      "bytes": 35471,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/88_2026-05-13.md",
+        "git_blob_sha1": "e01d96fd57253f55827b2e0c8e43ae7116e9e210",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/88_2026-05-13.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-14",
+      "path": "BACKUP/2026-05-14.md",
+      "sha256": "76462211acebc24fbd48358bd6dba7f9b4cba388f497bfeed910ef640e17ee7b",
+      "bytes": 24502,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/89_2026-05-14.md",
+        "git_blob_sha1": "febc4d3e11f3e2dfd6232e53f9a16d361e4d3821",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/89_2026-05-14.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-15",
+      "path": "BACKUP/2026-05-15.md",
+      "sha256": "1555494c45f2e2c209765aca08c647a9d7ed86cfc459de8c9d96a76490b09bb8",
+      "bytes": 25891,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/90_2026-05-15.md",
+        "git_blob_sha1": "b5521348830c7813b3318971ab0c77e34f6491dc",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/90_2026-05-15.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-16",
+      "path": "BACKUP/2026-05-16.md",
+      "sha256": "5c13b94a290025b9d985b8f148985b3e253454f93211bf37d2b372b3b0ebaee2",
+      "bytes": 23022,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/92_2026-05-16.md",
+        "git_blob_sha1": "5ec2c8047f07a97c54647f7d67536955aa864a9c",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/92_2026-05-16.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-17",
+      "path": "BACKUP/2026-05-17.md",
+      "sha256": "284f7ca179cc1a5ea218c6792794acf2382a0f80d3e140db10dd30cc69dd12a8",
+      "bytes": 7908,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/93_2026-05-17.md",
+        "git_blob_sha1": "02890007aa3ccf4378d3249a9a8b7637b5a77bcd",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/93_2026-05-17.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-18",
+      "path": "BACKUP/2026-05-18.md",
+      "sha256": "b99733fbba40367a935380245f4067bd7a5cb3d049f1733c1fe1178e4b1ac62f",
+      "bytes": 8752,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/94_2026-05-18.md",
+        "git_blob_sha1": "4ff973682576c9b0f78fd8330ea28d6954dd20ca",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/94_2026-05-18.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-19",
+      "path": "BACKUP/2026-05-19.md",
+      "sha256": "44d4d6737ea3fc9c37e2277fb4633196caa641168477f0ac3469356f15fff477",
+      "bytes": 16987,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/95_2026-05-19.md",
+        "git_blob_sha1": "0c5a0c7b5d57e609d079465eb2d6a3066479cd62",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/95_2026-05-19.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-20",
+      "path": "BACKUP/2026-05-20.md",
+      "sha256": "5ad216010c39e0b175ed7cffccbe68c9518144cced5b4aea38ac2ab0d5e5d493",
+      "bytes": 55594,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/96_2026-05-20.md",
+        "git_blob_sha1": "78002131a3ce893d4aa0664e4e4c3f3e356eab68",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/96_2026-05-20.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-21",
+      "path": "BACKUP/2026-05-21.md",
+      "sha256": "81306d1dd9f5bcb7f0b18e68707da03596f25b60040139230a111388522ba4cc",
+      "bytes": 27855,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/97_2026-05-21.md",
+        "git_blob_sha1": "d405e93551258ef2ec614f9e28b8231f032aa90c",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/97_2026-05-21.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-22",
+      "path": "BACKUP/2026-05-22.md",
+      "sha256": "45018a955549d91cf7baa16c2e7067d301a77b8879b2ddc332d5ae7c0a9cb3bf",
+      "bytes": 27933,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/98_2026-05-22.md",
+        "git_blob_sha1": "90808a31684d800cd2cc1880af828ab327522f53",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/98_2026-05-22.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-23",
+      "path": "BACKUP/2026-05-23.md",
+      "sha256": "785708d0a16021f9fe406839245f18442a7ef4c75f5661111c4eadb30a0b4aa5",
+      "bytes": 20380,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/99_2026-05-23.md",
+        "git_blob_sha1": "fa30d8fe2febcc872187858d609631ea069f6648",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/99_2026-05-23.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-24",
+      "path": "BACKUP/2026-05-24.md",
+      "sha256": "72ca5d3a98a1b2ed163a1c2eacf9a8f7d6f55f9a9117d06bb7377445695cbbb9",
+      "bytes": 5085,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/100_2026-05-24.md",
+        "git_blob_sha1": "6b03617db2ef374d4808d7e077c28d1ae47d49a6",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/100_2026-05-24.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-25",
+      "path": "BACKUP/2026-05-25.md",
+      "sha256": "debbc2c2b8b083827a3a693d08b78bc47dd0d7816f65bd0feb7072f6cab2d32f",
+      "bytes": 5193,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/101_2026-05-25.md",
+        "git_blob_sha1": "823eb21341ae2fc8df558ab3574abf20494194b6",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/101_2026-05-25.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-26",
+      "path": "BACKUP/2026-05-26.md",
+      "sha256": "ec87f099c7ccfb9025a28f89ca0aede36ba572b1ed38e36557451a60de55381e",
+      "bytes": 9627,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/102_2026-05-26.md",
+        "git_blob_sha1": "5f0d48b7045a5443705c06cd4ae3028522b487f4",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/102_2026-05-26.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-27",
+      "path": "BACKUP/2026-05-27.md",
+      "sha256": "7d333cf14e2d384460076510bc1a8dadd3b08b8b1967b4be3b3dae882b30d873",
+      "bytes": 25712,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/103_2026-05-27.md",
+        "git_blob_sha1": "adb5aae0b244f9c5a1c373ed20e30a4744fb1a0d",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/103_2026-05-27.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-28",
+      "path": "BACKUP/2026-05-28.md",
+      "sha256": "d778726b293b0af5029fc89f310ec8e1dfab8a3d52e2bf6d094c41ae8345be0d",
+      "bytes": 27277,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/104_2026-05-28.md",
+        "git_blob_sha1": "5bad3d740812a3c68359049612ef69f4fb5f9154",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/104_2026-05-28.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-29",
+      "path": "BACKUP/2026-05-29.md",
+      "sha256": "8837940d73f1834448c3cbc32fc8e700dedbb0994859e312f6ed5c3cc6a8815e",
+      "bytes": 37114,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/105_2026-05-29.md",
+        "git_blob_sha1": "91f3425811f983cb5ad27473815ea2d7efe34e7c",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/105_2026-05-29.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-30",
+      "path": "BACKUP/2026-05-30.md",
+      "sha256": "9961e2140229ac1952b1c1c1d4da589aa4acb716d3537ac6a3c1c2b2ec14810c",
+      "bytes": 15934,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/106_2026-05-30.md",
+        "git_blob_sha1": "1e50005330af61aceb18365ab9b0af211c413a70",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/106_2026-05-30.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-05-31",
+      "path": "BACKUP/2026-05-31.md",
+      "sha256": "c4a3f369cf1687750219e9fc583bdde0ea49dc6a356c1f43c4db854add3cb39d",
+      "bytes": 8032,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/107_2026-05-31.md",
+        "git_blob_sha1": "209f0555ae548c5642b4b48a708f34993c119a44",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/107_2026-05-31.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-01",
+      "path": "BACKUP/2026-06-01.md",
+      "sha256": "589d3d47be5f4de74c5849b8070c5ffc680de684fd3e8b9d28c84dd4c8942d74",
+      "bytes": 12112,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/108_2026-06-01.md",
+        "git_blob_sha1": "645feb0544da60b604442987ba05ab5539b67aa9",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/108_2026-06-01.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-02",
+      "path": "BACKUP/2026-06-02.md",
+      "sha256": "ea76bf04af3b373f1432c993747bbac35183cc5837f9b9bb6ecae730ddcdfd8e",
+      "bytes": 51700,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/109_2026-06-02.md",
+        "git_blob_sha1": "250e016a40c397af339e56f87499a9695dbd071d",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/109_2026-06-02.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-03",
+      "path": "BACKUP/2026-06-03.md",
+      "sha256": "65ddb7ebafb3560aede54ab2611f121520f2d45d0e75919acbed51e51c9565f8",
+      "bytes": 46999,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/110_2026-06-03.md",
+        "git_blob_sha1": "769ef45b545a17c0e02ae89a914575c9296ed414",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/110_2026-06-03.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-04",
+      "path": "BACKUP/2026-06-04.md",
+      "sha256": "41a147a815739f9a67c2829fb60c2ea37fa4e80dc2ef1f289beed16adc9d093a",
+      "bytes": 34567,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/111_2026-06-04.md",
+        "git_blob_sha1": "9ac5163a47d1afaee866f7bca9e86e75fcb819e5",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/111_2026-06-04.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-05",
+      "path": "BACKUP/2026-06-05.md",
+      "sha256": "572b9f0246af31d9e7b51fb16d521466464255b6341ddf2cb987c88c80a72e51",
+      "bytes": 36931,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/112_2026-06-05.md",
+        "git_blob_sha1": "79a0c995ad95edd2e33bff4a9a1ddad7f2e9d428",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/112_2026-06-05.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-06",
+      "path": "BACKUP/2026-06-06.md",
+      "sha256": "9dbcebf3bff5b9569848d33cb9e3b6ad525c32389eb3de17cc0c473f1cf1913f",
+      "bytes": 31076,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/113_2026-06-06.md",
+        "git_blob_sha1": "9b79f1e2fea6c13491e5828b0f971f75bcff2ae1",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/113_2026-06-06.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-07",
+      "path": "BACKUP/2026-06-07.md",
+      "sha256": "f137b0b056e45aed0c8615f2d629b5e7604c8805c045cae94d4b5fc946ea00f9",
+      "bytes": 7758,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/114_2026-06-07.md",
+        "git_blob_sha1": "0fb51d545284333edeb60779583bae6fd7adf4e8",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/114_2026-06-07.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-08",
+      "path": "BACKUP/2026-06-08.md",
+      "sha256": "a26366cc7bb78a38e0063bc364827fe827e0a3482719390935859cfd1b489391",
+      "bytes": 7437,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily",
+        "revision": "a91cbef50bd05e1c9032ca2c2bd76010eeaae008",
+        "source_path": "BACKUP/115_2026-06-08.md",
+        "git_blob_sha1": "0c8bcca7e8e391889eee8d74e6031dfa4d5726fb",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily/a91cbef50bd05e1c9032ca2c2bd76010eeaae008/BACKUP/115_2026-06-08.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-12",
+      "path": "BACKUP/2026-06-12.md",
+      "sha256": "02425058a8e9ee7610be37d1215924a5ffe26392777b9deccdc2e78524822850",
+      "bytes": 28787,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily-new",
+        "revision": "9b50d713ad32ee1e2487b48094ad5b6a0e6306ab",
+        "source_path": "BACKUP/1_2026-06-12.md",
+        "git_blob_sha1": "e2363192bc0c0cf533e7117fb3080a3f6d184187",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily-new/9b50d713ad32ee1e2487b48094ad5b6a0e6306ab/BACKUP/1_2026-06-12.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-13",
+      "path": "BACKUP/2026-06-13.md",
+      "sha256": "2cd65b40f674b2c6fdaab8108a0f2cfe9c7a3559d49e365a2a55f4b0a41c3c6e",
+      "bytes": 22577,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily-new",
+        "revision": "9b50d713ad32ee1e2487b48094ad5b6a0e6306ab",
+        "source_path": "BACKUP/2_2026-06-13.md",
+        "git_blob_sha1": "06f9fe173e82eae93e775c1929bc39426d673a83",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily-new/9b50d713ad32ee1e2487b48094ad5b6a0e6306ab/BACKUP/2_2026-06-13.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-14",
+      "path": "BACKUP/2026-06-14.md",
+      "sha256": "0f141f6daaa9b2c291d8bf57fdd0ab12f8947b69ab3763d1eface69a8cab425d",
+      "bytes": 16754,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily-new",
+        "revision": "9b50d713ad32ee1e2487b48094ad5b6a0e6306ab",
+        "source_path": "BACKUP/3_2026-06-14.md",
+        "git_blob_sha1": "6e7061542b7c31e25b09a532e96ea35bdd5aeb70",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily-new/9b50d713ad32ee1e2487b48094ad5b6a0e6306ab/BACKUP/3_2026-06-14.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-15",
+      "path": "BACKUP/2026-06-15.md",
+      "sha256": "c553859391b67db4438ae3a98d757ce12ebcd54da9b9e0b7e3c357fbd621da1a",
+      "bytes": 11652,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily-new",
+        "revision": "9b50d713ad32ee1e2487b48094ad5b6a0e6306ab",
+        "source_path": "BACKUP/4_2026-06-15.md",
+        "git_blob_sha1": "02ff0fc3c3a942b9448a9ddfb8d8edfe98334aa4",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily-new/9b50d713ad32ee1e2487b48094ad5b6a0e6306ab/BACKUP/4_2026-06-15.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-16",
+      "path": "BACKUP/2026-06-16.md",
+      "sha256": "5c5d0aa6a05bb1bf2449aefaa319546716667dae738ee41d67c12ff45643e1be",
+      "bytes": 22091,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily-new",
+        "revision": "9b50d713ad32ee1e2487b48094ad5b6a0e6306ab",
+        "source_path": "BACKUP/5_2026-06-16.md",
+        "git_blob_sha1": "2f2a89bf51d38d083725b690929cd9c60083c3ba",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily-new/9b50d713ad32ee1e2487b48094ad5b6a0e6306ab/BACKUP/5_2026-06-16.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-17",
+      "path": "BACKUP/2026-06-17.md",
+      "sha256": "9e97e6b4dc8cfc0db2483ad6fa341849d048394e56759ed3f749cba918b48303",
+      "bytes": 35896,
+      "source": {
+        "kind": "pinned-github-mirror",
+        "repository": "Baldman-JYH/juya-ai-daily-new",
+        "revision": "9b50d713ad32ee1e2487b48094ad5b6a0e6306ab",
+        "source_path": "BACKUP/6_2026-06-17.md",
+        "git_blob_sha1": "87f4886836028d72825c8afb6507da2df6136b1e",
+        "url": "https://raw.githubusercontent.com/Baldman-JYH/juya-ai-daily-new/9b50d713ad32ee1e2487b48094ad5b6a0e6306ab/BACKUP/6_2026-06-17.md"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-18",
+      "path": "BACKUP/2026-06-18.md",
+      "sha256": "c1e2c1c920344e830b71383d98ac9ccdbbe2dd74f19c47cac43644e6756a938a",
+      "bytes": 33081,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-06-18.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-06-18/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-19",
+      "path": "BACKUP/2026-06-19.md",
+      "sha256": "727314f1abc9521d3010e1a1e02b8dd80e83121df62973700c407c3d62f6d4d2",
+      "bytes": 29461,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-06-19.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-06-19/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-20",
+      "path": "BACKUP/2026-06-20.md",
+      "sha256": "d7a3d5ca5f73e0480c4ec771058318bef69ff50684360c178443c6af030248c6",
+      "bytes": 11083,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-06-20.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-06-20/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-21",
+      "path": "BACKUP/2026-06-21.md",
+      "sha256": "9053e3540e256adb6d91a24bddc5b7fbd998185d1483bf30903ad6d74685ced5",
+      "bytes": 6189,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-06-21.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-06-21/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-22",
+      "path": "BACKUP/2026-06-22.md",
+      "sha256": "9f5810334acbd5caa52dc5e819b712889a0eba1b52b3a2b40547fc81bc5a5849",
+      "bytes": 6285,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-06-22.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-06-22/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-23",
+      "path": "BACKUP/2026-06-23.md",
+      "sha256": "6e5a1cca0a8d6a35b60d25e8f32de919dec185e441f5837d085a7614208d2908",
+      "bytes": 40732,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-06-23.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-06-23/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-24",
+      "path": "BACKUP/2026-06-24.md",
+      "sha256": "a1834f795cd20dd76e7d7d45e47953c611d1a15f008bc39c153787e468ddbcc9",
+      "bytes": 25010,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-06-24.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-06-24/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-25",
+      "path": "BACKUP/2026-06-25.md",
+      "sha256": "0d2e3685b4d0fd99b3ed3ceda077e4d6f49a4da5baed79ba1a3a610bc542bfad",
+      "bytes": 14977,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-06-25.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-06-25/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-26",
+      "path": "BACKUP/2026-06-26.md",
+      "sha256": "80a9210cf1c54bec4a45e0d084cf7c363c7fc7a9db086ac27286ad631c3f2daf",
+      "bytes": 24944,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-06-26.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-06-26/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-27",
+      "path": "BACKUP/2026-06-27.md",
+      "sha256": "e483045d076191cef1cb02d823ca4bdb30ac8bf32dfdb7c00fe8843cf011bedb",
+      "bytes": 17802,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-06-27.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-06-27/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-28",
+      "path": "BACKUP/2026-06-28.md",
+      "sha256": "eace3e6f792a450bf5fede620b7901d5dff14ee7248e06b558a7eed2d68321ed",
+      "bytes": 7106,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-06-28.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-06-28/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-29",
+      "path": "BACKUP/2026-06-29.md",
+      "sha256": "c24544c4b226098962745bcd7f3d4731de35fb3daed9e9fda6f32963bf3dbeb6",
+      "bytes": 7890,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-06-29.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-06-29/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-06-30",
+      "path": "BACKUP/2026-06-30.md",
+      "sha256": "9e4b8aa09bb8878873d71c7cb01556cfe0fa995d973da5c34bfa4de745c7f917",
+      "bytes": 32406,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-06-30.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-06-30/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-01",
+      "path": "BACKUP/2026-07-01.md",
+      "sha256": "2ac926139ac6fc72c1dcbdc00c66c8e0cfef74bde3614321d80e1f938efaf15d",
+      "bytes": 28508,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-01.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-01/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-02",
+      "path": "BACKUP/2026-07-02.md",
+      "sha256": "47fbd368efef2dca0f01afc685bcdd8b1b5bd94f333651f5ea4e881e98e0a727",
+      "bytes": 17162,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-02.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-02/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-03",
+      "path": "BACKUP/2026-07-03.md",
+      "sha256": "4fc05f9e981e2b088a2d0e0cbc85a12357bacc860d4f5fb03e61763cf9eae0fb",
+      "bytes": 14860,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-03.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-03/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-04",
+      "path": "BACKUP/2026-07-04.md",
+      "sha256": "8cdbf24113a31825a8677eaa9a6d3318d8daa810f669ffa3dd1a6b4a9e5159f3",
+      "bytes": 11755,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-04.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-04/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-05",
+      "path": "BACKUP/2026-07-05.md",
+      "sha256": "9741b816620ae49a2d3eac7023377d7792ea6ce0c010ce4b6912001dd0f56a31",
+      "bytes": 7798,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-05.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-05/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-06",
+      "path": "BACKUP/2026-07-06.md",
+      "sha256": "2267bc2f57a5ace7dd98cdc25ec612c39aa6a21902ab518e7706ce6e7c8ebf80",
+      "bytes": 12591,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-06.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-06/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-07",
+      "path": "BACKUP/2026-07-07.md",
+      "sha256": "e3313ae2a47c747900ae8ce92ce09eb26c55115f4aed81844779e319f8dd7a4a",
+      "bytes": 15852,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-07.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-07/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-08",
+      "path": "BACKUP/2026-07-08.md",
+      "sha256": "748879f149b1c1da2c1f11357a7ede0b9f9d9b4ff15c827afb0ab25ba714a024",
+      "bytes": 34049,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-08.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-08/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-09",
+      "path": "BACKUP/2026-07-09.md",
+      "sha256": "4fae2161036da5833e499935bddf2bfb4c61526a7fadbba9a508923bce49f07f",
+      "bytes": 25389,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-09.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-09/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-10",
+      "path": "BACKUP/2026-07-10.md",
+      "sha256": "f769624655de8de1af32dced8131dce87a6cd38f5a81ce4f5f0b4f21104d804d",
+      "bytes": 35125,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-10.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-10/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-11",
+      "path": "BACKUP/2026-07-11.md",
+      "sha256": "1b7d7d9731816dcf8108537ded10768980f56d578c894736c1aae5f6de50bc59",
+      "bytes": 25707,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-11.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-11/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-12",
+      "path": "BACKUP/2026-07-12.md",
+      "sha256": "ca792d32ece7d5f97c16e93389be0913b13d7153348051840e5ecfc26aaea44d",
+      "bytes": 5597,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-12.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-12/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-13",
+      "path": "BACKUP/2026-07-13.md",
+      "sha256": "f9f16d0a7d265b0471ce453dc381be2c15d0621f0e0ff56190ca54446b6f2f3b",
+      "bytes": 9580,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-13.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-13/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-14",
+      "path": "BACKUP/2026-07-14.md",
+      "sha256": "4bae089f594ca2e2b12f4c78bd68f6a5b08c735b2d4de4786cde3f3c01e7001c",
+      "bytes": 13760,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-14.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-14/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-15",
+      "path": "BACKUP/2026-07-15.md",
+      "sha256": "673bb5e6d145e6328ce899a6c907f715473011ea9f801a4f8ab6c2c0ba3b4680",
+      "bytes": 33166,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-15.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-15/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-16",
+      "path": "BACKUP/2026-07-16.md",
+      "sha256": "e6a7f4d57281f6e086659d7a7f298277017d65f54e0518b77de457ba9b4b059e",
+      "bytes": 14281,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-16.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-16/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-17",
+      "path": "BACKUP/2026-07-17.md",
+      "sha256": "074ce7367cbf9a51294f0fe3b799eb09fc83c075e67974fef269890aee123670",
+      "bytes": 25856,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-17.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-17/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-18",
+      "path": "BACKUP/2026-07-18.md",
+      "sha256": "29d6f4d8e31312ed936a6072e27276d5a314477d202c5e01856a7d2dccde85b8",
+      "bytes": 28196,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-18.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-18/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-19",
+      "path": "BACKUP/2026-07-19.md",
+      "sha256": "66f9c2638b98224eb5f3952eab4b7975160a5f3c69a82a0b9cf0e8f2d56537fe",
+      "bytes": 15085,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-19.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-19/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-20",
+      "path": "BACKUP/2026-07-20.md",
+      "sha256": "6ad04a178a5c7f35ff6c3c4eb57f2088dc743cca94cb269c66976a548216bf21",
+      "bytes": 13522,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-20.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-20/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-21",
+      "path": "BACKUP/2026-07-21.md",
+      "sha256": "d28c79025d34d43250af1dafa3cc6a18e80c350292d6ed46b9fa576f7de552ff",
+      "bytes": 29302,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-21.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-21/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-22",
+      "path": "BACKUP/2026-07-22.md",
+      "sha256": "911db9e275cd70098d55ec60c0087f2a90defe82d44391316dc01b93d92f617c",
+      "bytes": 20644,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-22.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-22/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-23",
+      "path": "BACKUP/2026-07-23.md",
+      "sha256": "ac9fad1a83328faa2e7acc5cf9e25edcd30e861421279686943864827bacb9b4",
+      "bytes": 27420,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-23.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-23/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-24",
+      "path": "BACKUP/2026-07-24.md",
+      "sha256": "ea1a3d16b7bbee8d6495e7eb2a73173c36bfe72fdb967bb2ed917d4c4d0f81ec",
+      "bytes": 17507,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-24.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-24/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-25",
+      "path": "BACKUP/2026-07-25.md",
+      "sha256": "1db428737882dcb6cc71428dec46ef01a53ccbca4576ea70b1a8e92b39af6ac1",
+      "bytes": 32294,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-25.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-25/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-26",
+      "path": "BACKUP/2026-07-26.md",
+      "sha256": "ac9459dfd26930e5c4ab54e2f0769c2f7e41eae6146875cd5c82a1704eef076b",
+      "bytes": 6500,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-26.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-26/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-27",
+      "path": "BACKUP/2026-07-27.md",
+      "sha256": "0d2846657391532eaa903eb8a4f8abe0a9ad1a67191c3d43aad60327f15960d7",
+      "bytes": 5188,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-27.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-27/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-28",
+      "path": "BACKUP/2026-07-28.md",
+      "sha256": "5f4e9a5f06d6781a4a8075a7f8d3adb889b7bd42e4caae73bd427225d32f97f9",
+      "bytes": 22743,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-28.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-28/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-29",
+      "path": "BACKUP/2026-07-29.md",
+      "sha256": "b6233a1c2bd51d4927b433527de4a84788e04013c285de88efb545da69c1efe4",
+      "bytes": 36087,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-29.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-29/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-30",
+      "path": "BACKUP/2026-07-30.md",
+      "sha256": "56c95ca98d65b0dca94b0a467ca381cbcd15635e981f35a7f048868230415fd9",
+      "bytes": 25553,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-30.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-30/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-07-31",
+      "path": "BACKUP/2026-07-31.md",
+      "sha256": "ce56173fb4bdbc05c2d32b2562b7a105aa36a521aed97a09e82fecf3897e1143",
+      "bytes": 41795,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-07-31.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-07-31/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-01",
+      "path": "BACKUP/2026-08-01.md",
+      "sha256": "5993cd9083ecd3699155a590c54050af31e3dc499e2d4c16308afb58dba66a12",
+      "bytes": 20912,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-01.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-01/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-02",
+      "path": "BACKUP/2026-08-02.md",
+      "sha256": "7dcbe61508e41bd364eee27af2deb75b16bed1fc4ec612fa3cf8602768459747",
+      "bytes": 8368,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-02.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-02/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-03",
+      "path": "BACKUP/2026-08-03.md",
+      "sha256": "8988714c944465793dc60ee4a43a7b22284859a9a7403d982d5224693f904472",
+      "bytes": 6593,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-03.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-03/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-04",
+      "path": "BACKUP/2026-08-04.md",
+      "sha256": "f5286abceb207ad3d1922fcd3f37f6c52c1424c590924c90b482fa643b4426d6",
+      "bytes": 22842,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-04.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-04/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-05",
+      "path": "BACKUP/2026-08-05.md",
+      "sha256": "d5633282d8e9b4be11de90be9fc805ea6b063a9e3eeddfcba5111a5fe0555d37",
+      "bytes": 39647,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-05.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-05/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-06",
+      "path": "BACKUP/2026-08-06.md",
+      "sha256": "a2f98f6f687aae367a3b67f4994c51363ef1cd04c01b42a991ebdf84a144b52b",
+      "bytes": 26455,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-06.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-06/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-07",
+      "path": "BACKUP/2026-08-07.md",
+      "sha256": "be9262b6240900dc338207717e6cb8ec3834156d1a23648b264d8e49582111a8",
+      "bytes": 27527,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-07.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-07/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-08",
+      "path": "BACKUP/2026-08-08.md",
+      "sha256": "c68c75f63e37ef1a3f6ee49a3be195cb050e5a606aea9f14edf01c836d2533be",
+      "bytes": 15668,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-08.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-08/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-09",
+      "path": "BACKUP/2026-08-09.md",
+      "sha256": "0a21454df9801a66a2610427b574e38f6a674616ba87201267714fd175388993",
+      "bytes": 11405,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-09.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-09/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-10",
+      "path": "BACKUP/2026-08-10.md",
+      "sha256": "13a8bdee78de53dd24d9a0eb48f718f6cc1faf9c2f62c4a93afac9385e7fe0e8",
+      "bytes": 5739,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-10.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-10/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-11",
+      "path": "BACKUP/2026-08-11.md",
+      "sha256": "c1f28472fb9a90ac72fb96abc80ed18413d08712aeea2b8bab3a40a44f96ef0b",
+      "bytes": 31958,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-11.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-11/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-12",
+      "path": "BACKUP/2026-08-12.md",
+      "sha256": "846a08ef5658a64c47603e279547af5146bb9554c790be0d4785f718c0022f74",
+      "bytes": 34061,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-12.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-12/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-13",
+      "path": "BACKUP/2026-08-13.md",
+      "sha256": "75b357493be476c25c5fa8a5ee0f09f1cdee5102aeedcb44130c21d16c942db7",
+      "bytes": 26427,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-13.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-13/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-14",
+      "path": "BACKUP/2026-08-14.md",
+      "sha256": "e0f131db04f42f1211547ef7e25bdec8b51bb6293755d7c10c7866a742f5edf7",
+      "bytes": 27958,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-14.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-14/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-15",
+      "path": "BACKUP/2026-08-15.md",
+      "sha256": "bf6eaaaebe50a730936c0ec609c04974d71e4dcb73b3f9100b3dd541eee31787",
+      "bytes": 20445,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-15.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-15/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-16",
+      "path": "BACKUP/2026-08-16.md",
+      "sha256": "b8ae897aaa4515a8ef395ef415ad76c9676c98b79f20d77f8306b95adf8eec30",
+      "bytes": 5925,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-16.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-16/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-17",
+      "path": "BACKUP/2026-08-17.md",
+      "sha256": "a26ace84aacbab856a1b9887315348f8291f5e4529ac59468e6d8615b82c97ff",
+      "bytes": 11533,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-17.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-17/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-18",
+      "path": "BACKUP/2026-08-18.md",
+      "sha256": "a251b8d20ef40031d4a80daa2d92fe78d0b0b6bd6b13edc0bbf648ee08bfc8d1",
+      "bytes": 21542,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-18.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-18/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-19",
+      "path": "BACKUP/2026-08-19.md",
+      "sha256": "e3343718efaad274ef1e13312c09015d5566b644eea82390de6ae39e84830fc0",
+      "bytes": 29195,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-19.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-19/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-20",
+      "path": "BACKUP/2026-08-20.md",
+      "sha256": "ebd0f5372c6a63f41bac248b654c7c30bee9bd2004563397bf2c0fef99e6c3a3",
+      "bytes": 27809,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-20.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-20/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-21",
+      "path": "BACKUP/2026-08-21.md",
+      "sha256": "8fc3a53d2e40bed228e187e9160a5f5ee1927c8cfd22ca732b5c16e8ba7eac36",
+      "bytes": 28164,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-21.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-21/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-22",
+      "path": "BACKUP/2026-08-22.md",
+      "sha256": "2f84b831388e5f9b4d8e0506031b7b94ee229324f5ef95e179e985760a5371ce",
+      "bytes": 28921,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-22.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-22/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-23",
+      "path": "BACKUP/2026-08-23.md",
+      "sha256": "ecbf790e01ce19df07b321e94ba1c296cd1066a3e29d3c350947527f7d48eb06",
+      "bytes": 8359,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-23.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-23/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-24",
+      "path": "BACKUP/2026-08-24.md",
+      "sha256": "e7b149d3e049a0a154195c1d0c38ddf1b2215fba076afd9a4ab672c6c50c6404",
+      "bytes": 9323,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-24.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-24/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-25",
+      "path": "BACKUP/2026-08-25.md",
+      "sha256": "82a71bfb2868ca77938b2c46532da932473cc051bdef54710384e70593fe234f",
+      "bytes": 16987,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-25.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-25/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-26",
+      "path": "BACKUP/2026-08-26.md",
+      "sha256": "9a37e39c05f54c7aafd2e0c8dfd1a321786fb99ecee075e3d3b9b4d03b8b948a",
+      "bytes": 32760,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-26.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-26/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-27",
+      "path": "BACKUP/2026-08-27.md",
+      "sha256": "1df1363f32a4fcb33ab1a56c5426bb9c4b95e0028c8d71d2cc3ea3f42e56c44d",
+      "bytes": 28247,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-27.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-27/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-28",
+      "path": "BACKUP/2026-08-28.md",
+      "sha256": "9bd73c41c1a80542738dec472773f2e4deafd4b05065035255619cab4f523e9e",
+      "bytes": 30066,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-28.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-28/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-29",
+      "path": "BACKUP/2026-08-29.md",
+      "sha256": "91c82600a0685facfedc002c5645d99f39e88ebe5f6dadb9a3fb5eb01c86460c",
+      "bytes": 16024,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-29.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-29/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-30",
+      "path": "BACKUP/2026-08-30.md",
+      "sha256": "3e9bb906d2768ea47a26968d18a9c7ca654a83cc7982ae390a14ac50d88de762",
+      "bytes": 13427,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-30.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-30/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-08-31",
+      "path": "BACKUP/2026-08-31.md",
+      "sha256": "c3592c873646239232a0fa64b416d42ccc68c631c73021480e4fc12cc3723ca8",
+      "bytes": 5558,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-08-31.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-08-31/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-09-01",
+      "path": "BACKUP/2026-09-01.md",
+      "sha256": "4bd2af51cadb534a6573880c0fcea6cf8a598b76931e737419c746cf683aa265",
+      "bytes": 21765,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-09-01.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-09-01/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-09-02",
+      "path": "BACKUP/2026-09-02.md",
+      "sha256": "49dde54e80680e1b00a12d919e422d098b7ad74f977dc93212de8353d73e6846",
+      "bytes": 28295,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-09-02.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-09-02/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-09-03",
+      "path": "BACKUP/2026-09-03.md",
+      "sha256": "fa113c313213ad7e2c9c310621dde45bb75613899af8e296be155e6d93e1a58f",
+      "bytes": 26002,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-09-03.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-09-03/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-09-04",
+      "path": "BACKUP/2026-09-04.md",
+      "sha256": "1f9260e6a30ae950ad94fbd532382bee7bb54cc23cf0ded07f116fc649e78177",
+      "bytes": 38071,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-09-04.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-09-04/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-09-05",
+      "path": "BACKUP/2026-09-05.md",
+      "sha256": "d452b546d8ee666b779c1b1a740da49381c1e2d432fb865e2339892ac2353250",
+      "bytes": 28136,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-09-05.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-09-05/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-09-06",
+      "path": "BACKUP/2026-09-06.md",
+      "sha256": "28d8e1f6132375ee0bbdc3c4886e9b7bef07259cc32fb526d1c33785038c6428",
+      "bytes": 10590,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-09-06.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-09-06/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-09-07",
+      "path": "BACKUP/2026-09-07.md",
+      "sha256": "e848cb56459c81ca74f421c7c67f782fb2d71918805e62d3b06043d476a82381",
+      "bytes": 10282,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-09-07.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-09-07/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-09-08",
+      "path": "BACKUP/2026-09-08.md",
+      "sha256": "82f7d3dd0e24037ab1c7a22cdc400567f190aebdd8c2d440fb04adc11ded3e0d",
+      "bytes": 14965,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-09-08.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-09-08/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-09-09",
+      "path": "BACKUP/2026-09-09.md",
+      "sha256": "23ef9bcdc3eb9672ec5caf5f6bd1838cb6c771f05f5733efc9f8aa9fcf8a32f3",
+      "bytes": 25696,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-09-09.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-09-09/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-09-10",
+      "path": "BACKUP/2026-09-10.md",
+      "sha256": "b388e8b36bbfd6748c2b88398bb59262d9819a09acc327001e8b386e86a1280f",
+      "bytes": 33723,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-09-10.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-09-10/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-09-11",
+      "path": "BACKUP/2026-09-11.md",
+      "sha256": "eadf61901963a47da9b0be4fd13cb200e4d35e91944b974714495e091b3f0ade",
+      "bytes": 41798,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-09-11.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-09-11/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-09-12",
+      "path": "BACKUP/2026-09-12.md",
+      "sha256": "5a055b360160d31d1dcc4e886e5eabe440751bd6ce8f44112ce1f2364a06b635",
+      "bytes": 34128,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-09-12.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-09-12/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-09-13",
+      "path": "BACKUP/2026-09-13.md",
+      "sha256": "55d969b86f08296830061673790de2ae6f563b6a9f0f9a4e2e77cad2926985a9",
+      "bytes": 9551,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-09-13.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-09-13/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-09-14",
+      "path": "BACKUP/2026-09-14.md",
+      "sha256": "365016c9887a0bc7d9e29d7e80f69c57393d7a8bfa846c3677dc00d51f6393da",
+      "bytes": 3925,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-09-14.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-09-14/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    },
+    {
+      "date": "2026-09-15",
+      "path": "BACKUP/2026-09-15.md",
+      "sha256": "fd856313713c8a455102b7ca7277e4cc2791187439c45559eb194079d320828f",
+      "bytes": 22351,
+      "source": {
+        "kind": "author-website",
+        "url": "https://daily.juya.uk/markdown/2026-09-15.md",
+        "issue_url": "https://daily.juya.uk/issues/2026-09-15/"
+      },
+      "retrieved_at": "2026-09-15T15:36:35+00:00"
+    }
+  ]
+}
